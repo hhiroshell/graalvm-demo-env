@@ -21,7 +21,7 @@
 cd `dirname $0`
 
 # valiables
-export ARTIFACT_NAME=oci-sandbox
+export ARTIFACT_NAME=oci-simple-sandbox
 
 # clean up
 rm -rf target

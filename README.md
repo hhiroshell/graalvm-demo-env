@@ -1,1 +1,1 @@
-# graalvm-demo-env
+# OCI Resource Manager Template for Simple Sandbox Environment.
